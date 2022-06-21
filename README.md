@@ -4,6 +4,7 @@ spectra of blood, water, and maybe some other fun things
 
 ->[Play with the app in your browser](https://droumis.github.io/spectra/)
 
+![static png of app](./spectra.png)
 
 _____
 ## Blood Data 

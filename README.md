@@ -1,8 +1,18 @@
 # spectra
 spectra of blood, water, and maybe some other fun things
 
+## Why?
+>"[Function near infrared spectroscopy (fNIRS)](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy) is an optical brain monitoring technique which uses near-infrared spectroscopy for the purpose of functional neuroimaging."
 
-->[Play with the app in your browser](https://droumis.github.io/spectra/)
+When communicating about fNIRS, it's very helpful to have a nice plot to show how oxyhemoglobin and deoxyhemoglobin (the two primary target molecules) absorb different wavelengths of light around the near-infrared range. 
+
+The spectrum for water is included to demonstrate how there is an upper limit to the 'optical window' (light red vertical span) because water starts absorbing too much light at higher wavelengths.
+
+The two vertical dashed black lines are the central wavelengths typically used by light sources to target oxyhemoglobin and deoxyhemoglobin separately.
+
+
+->[Interact with the plot in your browser](https://droumis.github.io/spectra/)
+(*If this doesn't work, use the jupyer notebook in this repo for the fully interactive and customizeable version*)
 
 ![static png of app](./spectra.png)
 
